@@ -1,0 +1,2 @@
+# konumlandirma
+deneme
